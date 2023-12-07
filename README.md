@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fajarnasrulloh
-- 👀 I’m interested in Universitas Gunadarma
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Frontend Developer 
+- 🌱 I’m currently learning Javascript and framework reactjs
 - 📫 How to reach me follow my ig fjarrna
 
 <!---
