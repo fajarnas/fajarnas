@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fajarnasrulloh
 - 👀 I’m interested in Frontend Developer 
-- 🌱 I’m currently learning Javascript and framework reactjs
+- 🌱 I’m currently learning Javascript and python
 - 📫 How to reach me follow my ig fjarrna
 
 <!---
