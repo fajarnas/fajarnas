@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @fajarnasrulloh
+# 👋 Hi, I’m fajar nasrulloh
 
 ## 🚀 Software Engineer
 
